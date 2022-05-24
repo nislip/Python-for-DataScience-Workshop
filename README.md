@@ -6,5 +6,4 @@ This repository contains lectures on created for the EWU SIAM Student Chapter on
 | --- |
 | Dataset Name | Link | Description
 | --- | --- | --- |
-| git status | List all new or modified files | test |
-| git diff | Show file differences that haven't been staged | test |
+| Time Series Classification | [UEA & UCR TS Classification Repo]([https://duckduckgo.com](http://www.timeseriesclassification.com/index.php)) | test |
