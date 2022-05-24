@@ -4,4 +4,4 @@ This repository contains lectures on created for the EWU SIAM Student Chapter on
 
 | Dataset Name | Link | Description
 | --- | --- | --- |
-| Time Series Classification | [UEA & UCR TS Classification Repo]([https://duckduckgo.com](http://www.timeseriesclassification.com/index.php)) | test |
+| Time Series Classification | [UEA & UCR TS Classification Repo](http://www.timeseriesclassification.com/index.php) | test |
