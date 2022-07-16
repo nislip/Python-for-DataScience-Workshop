@@ -1,10 +1,4 @@
-# Lectures on Python
-
-1.
-2.
-3.
-4.
-5.
+# About
 
 # Useful Datasets
 
