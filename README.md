@@ -18,3 +18,7 @@ This repository contains lectures on created for the EWU SIAM Student Chapter on
 | Federal Housing Finance Agency (FHFA) | [FHFA](https://www.fhfa.gov/DataTools/Downloads) | test |
 | Agency for Healthcare Research and Quality (AHRQ) | [AHRQ](https://www.ahrq.gov/data/data-tools/index.html) | test |
 | Visual Data Discovery | [Visual Data](https://visualdata.io/discovery) | test | 
+| DSIRE (NC Clean Energy Technology Center) | [Policies and Incentives](https://programs.dsireusa.org/system/program) | test |
+| Brookings | [Tracking Regulatory Changes](https://www.brookings.edu/interactives/tracking-regulatory-changes-in-the-biden-era/) | test |
+| Climate Watch | [Data Explorer](https://www.climatewatchdata.org/data-explorer/historical-emissions?historical-emissions-data-sources=cait&historical-emissions-gases=all-ghg&historical-emissions-regions=USA&historical-emissions-sectors=&page=1) | test |
+
