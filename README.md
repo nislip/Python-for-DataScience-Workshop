@@ -1,16 +1,4 @@
-# About
-
-# Lectures
-
-- Setting up a coding environment (Jupyter Lab, Google Collab)
-- Introduction to Python Syntax and Structure I
-- Introduction to Python Syntax and Structure II
-- Introduction to Python for DCSI I 
-- Introduction to Python for DCSI II
-
 # Useful Datasets
-
-This repository contains lectures on created for the EWU SIAM Student Chapter on Python for Data Science. These lectures contain code that demonstrates cleaning data using pandas, data mining, and the modeling of data using Scikit Learn. I have also provided a list of links to data repositories ranging in complexity (from clean to raw datasets).
 
 | Dataset Name | Link | Description
 | --- | --- | --- |
